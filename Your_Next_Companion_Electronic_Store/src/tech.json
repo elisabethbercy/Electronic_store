@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "name": "Iphone 11",
+    "picture": "images/iphone11.jpg",
+    "condition": "Brand new",
+    "specs": "64 gb factory unlocked",
+    "price": "$499"
+  },
+  {
+    "id": 1,
+    "name": "Samsung S9+",
+    "picture": "images/S9plus.jpeg",
+    "condition": "Brand new",
+    "specs": "64 gb factory unlocked",
+    "price": "$375"
+  },
+  {
+    "id": 2,
+    "name": "Iphone 11",
+    "picture": "images/iphone11.jpg",
+    "condition": "Brand new",
+    "specs": "64 gb factory unlocked",
+    "price": "$499"
+  },
+  {
+    "id": 3,
+    "name": "Skull earphones",
+    "picture": "images/skull_earphone.jpeg",
+    "condition": "Brand new",
+    "specs": "2.0 mic noise isolation fit",
+    "price": "$18.99"
+  },
+  {
+    "id": 4,
+    "name": "FitBit",
+    "picture": "images/fitbit_versa_2.png",
+    "condition": "Brand new",
+    "specs": "compatible with io and android",
+    "price": "$165"
+  },
+  {
+    "id": 5,
+    "name": "Samsung S9+",
+    "picture": "images/S9plus.jpeg",
+    "condition": "Brand new",
+    "specs": "64 gb factory unlocked",
+    "price": "$375"
+  },
+  {
+    "id": 6,
+    "name": "Iphone 11",
+    "picture": "images/iphone11.jpg",
+    "condition": "Brand new",
+    "specs": "64 gb factory unlocked",
+    "price": "$499"
+  },
+  {
+    "id": 7,
+    "name": "Samsung tv series 7",
+    "picture": "images/samsung_tv.jpg",
+    "condition": "Brand new",
+    "specs": "75'' Smart UHD ",
+    "price": "$499.99"
+  }
+]
